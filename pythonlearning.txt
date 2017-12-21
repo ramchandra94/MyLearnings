@@ -1,0 +1,4 @@
+export PYTHONPATH="path/to/thedirectory/tosearch${PYTHONPATH+":"}${PYTHONPATH-}" 
+
+// the above shell statement does not introduce unnecessary colons, which allows us to have multiple python paths.
+//python path is the environment variable used by python interpreter, and it searches in the path for importing any module.
