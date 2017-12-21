@@ -1,0 +1,5 @@
+#The below link has a comprehensive list of python rest api modules where each use different frameworks like Django,Pyramid etc.
+https://www.fullstackpython.com/api-creation.html
+
+#Real python website which explains how to make a rest api using rampses and pyramid
+https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
