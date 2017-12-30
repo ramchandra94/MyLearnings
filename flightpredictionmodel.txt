@@ -1,0 +1,4 @@
+https://achyutjoshi.github.io/btp/datacollection
+
+A link to the btech project where he predicted the best time to purchase flight ticket.
+much more DL work can be done to predict the flight prices and by crawling more data.
